@@ -1,2 +1,3 @@
 # DriveAuto-V1
- Ajopäiväkirja
+ Ajopäiväkirja digitaalisessa versiossa. 
+ 
